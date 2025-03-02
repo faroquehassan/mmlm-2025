@@ -45,13 +45,3 @@ Contains additional supporting information, including coaches, conference affili
 - **MNCAATourneySlots.csv and WNCAATourneySlots.csv**: Identifies the mechanism by which teams are paired against each other in the tournament.
 - **MNCAATourneySeedRoundSlots.csv**: Represents the men's bracket structure in any given year.
 
-## Notes
-- When identifying a particular season, we reference the year that the season ends in, not the year that it starts in.
-- The men's team IDs range from 1000-1999, whereas all of the women's team IDs range from 3000-3999.
-
-## Getting Started
-1. **Load the Data**: Use the provided scripts to load and preprocess the data.
-2. **Exploratory Data Analysis (EDA)**: Perform EDA to understand the data and identify important features.
-3. **Feature Engineering**: Create new features that might help improve model performance.
-4. **Model Training**: Train and evaluate different models to make predictions.
-5. **Submission**: Generate predictions and submit them to Kaggle.
